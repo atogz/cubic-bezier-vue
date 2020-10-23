@@ -24,7 +24,7 @@
     }
 
     .page {
-        background: #ffcc00;
+        background: #7f909b;
         padding: 30px;
     }
 
@@ -37,7 +37,7 @@
         width: 50%;
         border-radius: 10px;
         margin: 50px auto 0 auto;
-        height: calc(60% - 50px);
+        height: calc(100vh - 150px);
         overflow: hidden;
     }
 
